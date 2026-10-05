@@ -2,7 +2,7 @@
 
 # ADITYA CHOURASIYA
 
-### Product Management · Fintech · Consumer Products · AI
+### DevOps · SRE · Cloud Infrastructure · CI/CD · Automation
 
 <p>
   <a href="https://www.linkedin.com/in/aditya-chourasiya-4aa111249">
@@ -24,59 +24,59 @@
 
 ## 👋 About
 
-I'm a **BCA student focused on Product Management**, with a particular interest in **fintech, consumer products, product analytics, and AI-powered experiences**.
+I'm a **BCA student focused on DevOps and Site Reliability Engineering**, with an interest in **cloud infrastructure, CI/CD automation, containerization, monitoring, and reliable production systems**.
 
-I enjoy taking a problem from:
+I enjoy taking an application from:
 
-**User Problem → Research → Product Definition → Prioritization → Execution → Measurement → Iteration**
+**Code → Build → Test → Package → Deploy → Monitor → Recover → Improve**
 
-My projects focus on turning complex information and workflows into products that are easier for users to understand and use.
+My projects focus on automating engineering workflows, reducing deployment friction, and building infrastructure that is **reliable, observable, secure, and repeatable**.
 
 ---
 
-## ✦ Selected Product Work
+## ✦ Selected DevOps / SRE Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📈 NIFTY 50 Market Intelligence
+### ⚙️ CI/CD Infrastructure
 
-**Fintech · Investments · Analytics**
+**DevOps · Jenkins · Automation**
 
-A product concept designed to simplify the interpretation of NIFTY 50 market and F&O data.
+A CI/CD environment designed to automate application delivery from source control to deployment.
 
-**Product scope**
+**Engineering scope**
 
-- 50+ financial indicators analyzed
-- 5 core indicators prioritized
-- 2 primary user-facing signals
-- Product metrics defined
-- Financial data converted into actionable information
+- Jenkins controller + agent architecture
+- Automated build pipelines
+- GitHub integration
+- Multi-stage deployment workflow
+- Health-check based deployment
+- Secure credential management
 
-<a href="https://github.com/Rightplacecom/STOCK-MODEL">
-<b>View Project →</b>
+<a href="https://github.com/Rightplacecom">
+<b>View Projects →</b>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💳 Payment Failure Experience
+### ☁️ AWS Infrastructure
 
-**Fintech · Payments · UX**
+**Cloud · Linux · Infrastructure**
 
-A product case study focused on helping users understand and recover from failed or pending transactions.
+Building and managing cloud infrastructure for application deployment and automation.
 
-**Product scope**
+**Engineering scope**
 
-- 6 transaction states mapped
-- 5 failure categories identified
-- 6 product KPIs defined
-- Recovery flows designed
-- User-impact based prioritization
-
-<b>View Case Study →</b>
+- AWS EC2
+- Linux server administration
+- IAM
+- Security Groups
+- SSH-based infrastructure
+- Cloud deployment workflows
 
 </td>
 </tr>
@@ -84,40 +84,40 @@ A product case study focused on helping users understand and recover from failed
 <tr>
 <td width="50%" valign="top">
 
-### 📅 Aditya AI
+### 🐳 Containerized Applications
 
-**Consumer · AI · Scheduling**
+**Docker · CI/CD · Deployment**
 
-A customer-facing appointment experience designed around booking and managing appointments across multiple businesses.
+Containerizing applications to create consistent environments across development and deployment.
 
-**Product scope**
+**Engineering scope**
 
-- 50 demo businesses
-- 4 core customer actions
-- 6-stage customer journey
-- Voice + text experience
-- Booking and availability workflows
-
-<b>View Project →</b>
+- Docker image creation
+- Container lifecycle management
+- Docker Compose
+- Application packaging
+- CI/CD container builds
+- Deployment environments
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔎 Product Experiments
+### 📊 Monitoring & Reliability
 
-**Discovery · Analytics · UX**
+**SRE · Observability · Operations**
 
-Exploring product ideas around consumer workflows, financial products, AI experiences, and data-driven decision making.
+Exploring reliability practices for detecting failures and understanding application and infrastructure health.
 
-**Focus areas**
+**Engineering scope**
 
-- User problems
-- Product hypotheses
-- Feature prioritization
-- Product metrics
-- Experimentation
-- User experience
+- Grafana
+- Infrastructure monitoring
+- Health checks
+- Logs
+- Metrics
+- Service availability
+- Failure detection
 
 </td>
 </tr>
@@ -125,78 +125,81 @@ Exploring product ideas around consumer workflows, financial products, AI experi
 
 ---
 
-## 📊 Product Thinking
+## 🔄 DevOps Thinking
 
 <div align="center">
 
-| DISCOVER | DEFINE | PRIORITIZE | MEASURE |
+| PLAN | BUILD | DEPLOY | OPERATE |
 |:---:|:---:|:---:|:---:|
-| 🔎 | 🎯 | ⚡ | 📊 |
-| Understand users | Define the problem | Choose what matters | Learn from data |
+| 🎯 | ⚙️ | 🚀 | 📊 |
+| Define workflow | Automate delivery | Release safely | Monitor systems |
 
 </div>
 
 ### What I look for
 
-**User**
-→ What problem are they actually experiencing?
+**Reliability**
+→ Can the system continue working when something fails?
 
-**Business**
-→ Why does solving it matter?
+**Automation**
+→ Which repetitive manual operation can be automated?
 
-**Product**
-→ What is the smallest useful solution?
+**Deployment**
+→ Can software be released consistently and safely?
 
-**Data**
-→ How will we know whether it worked?
+**Observability**
+→ Can we understand what is happening inside the system?
 
-**Iteration**
-→ What should change based on what we learn?
+**Security**
+→ Are credentials, permissions, and access properly controlled?
+
+**Recovery**
+→ What happens when deployment or infrastructure fails?
 
 ---
 
-## 🧠 Product Toolkit
+## 🧰 DevOps / SRE Toolkit
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Discovery
+### Cloud
 
-- User Research
-- Customer Interviews
-- Problem Definition
-- Competitive Analysis
-- Journey Mapping
-- Opportunity Identification
-
-</td>
-
-<td width="33%" valign="top">
-
-### Product
-
-- PRDs
-- User Stories
-- Acceptance Criteria
-- Feature Definition
-- Prioritization
-- Roadmapping
-- MVP Definition
+- AWS
+- EC2
+- IAM
+- VPC
+- Security Groups
+- EBS
+- Cloud Infrastructure
 
 </td>
 
 <td width="33%" valign="top">
 
-### Analytics
+### CI/CD
 
-- SQL
-- Python
-- Excel / Sheets
-- Product Metrics
-- Funnel Analysis
-- Cohort Analysis
-- KPI Analysis
+- Jenkins
+- GitHub
+- Jenkins Pipelines
+- Webhooks
+- Jenkins Agents
+- Automated Builds
+- Deployment Pipelines
+
+</td>
+
+<td width="33%" valign="top">
+
+### Containers
+
+- Docker
+- Docker Compose
+- Kubernetes
+- Container Images
+- Container Deployment
+- Application Packaging
 
 </td>
 </tr>
@@ -204,39 +207,43 @@ Exploring product ideas around consumer workflows, financial products, AI experi
 <tr>
 <td valign="top">
 
-### UX
+### Infrastructure
 
-- User Flows
-- Wireframes
-- Prototyping
-- Figma
-- Customer Journeys
-- Usability Analysis
-
-</td>
-
-<td valign="top">
-
-### Experimentation
-
-- A/B Testing
-- Hypothesis Design
-- Experiment Metrics
-- Conversion Analysis
-- Feature Validation
+- Terraform
+- Infrastructure as Code
+- Variables
+- Outputs
+- Modules
+- State Management
+- AWS Provisioning
 
 </td>
 
 <td valign="top">
 
-### Domains
+### Monitoring
 
-- Fintech
-- Payments
-- Investments
-- Consumer Products
-- AI Products
-- Financial Analytics
+- Grafana
+- Metrics
+- Logs
+- Health Checks
+- System Monitoring
+- Service Monitoring
+- Observability
+
+</td>
+
+<td valign="top">
+
+### Systems
+
+- Linux
+- Ubuntu
+- Networking
+- SSH
+- Bash
+- Python
+- Server Administration
 
 </td>
 </tr>
@@ -244,80 +251,51 @@ Exploring product ideas around consumer workflows, financial products, AI experi
 
 ---
 
-## 🎯 Product Metrics I Work With
-
-### Consumer Products
-
-`Activation` · `Conversion` · `Retention` · `DAU/MAU` · `Feature Adoption` · `Churn`
-
-### Fintech
-
-`Transaction Success` · `Failure Rate` · `Recovery Rate` · `Resolution Time` · `Repeat Failure`
-
-### Product Experience
-
-`Task Completion` · `Drop-off` · `Time to Complete` · `Error Rate` · `User Satisfaction`
-
----
-
-## 💡 Product Case Study
-
-### Payment Failure Experience
-
-> **Problem**
-
-When a transaction fails or remains pending, users may not know whether to retry, wait, or take another action.
-
-**User journey**
-
-`Initiate → Processing → Success / Failed / Pending → Resolution`
-
-**Product opportunities**
-
-| Problem | Product Response | Metric |
-|---|---|---|
-| Unclear failure | Contextual error message | Resolution Rate |
-| User retries unnecessarily | Smart retry guidance | Retry Rate |
-| Pending status creates uncertainty | Clear transaction status | Support Requests |
-| Repeated failures | Failure-specific recovery | Recovery Rate |
-
-**Prioritization**
-
-User Impact × Frequency × Recovery Opportunity × Effort
-
----
-
-## 📈 My Product Approach
+## 🏗️ DevOps Architecture
 
 ```text
-             USER
-              │
-              ▼
-        ┌─────────────┐
-        │   DISCOVER  │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │    DEFINE   │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │ PRIORITIZE  │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │    BUILD    │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   MEASURE   │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   ITERATE   │
-        └─────────────┘
+                         DEVELOPER
+                             │
+                             ▼
+                         GitHub
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     Jenkins     │
+                    │   Controller    │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │  Jenkins Agent  │
+                    └────────┬────────┘
+                             │
+                 ┌───────────┼───────────┐
+                 ▼           ▼           ▼
+              Build        Test       Security
+                 │           │           │
+                 └───────────┼───────────┘
+                             ▼
+                         Docker
+                             │
+                             ▼
+                           AWS
+                             │
+                             ▼
+                       Deployment
+                             │
+                             ▼
+                     Health Checks
+                             │
+                    ┌────────┴────────┐
+                    │                 │
+                  PASS              FAIL
+                    │                 │
+                    ▼                 ▼
+                Production          STOP
+                    │
+                    ▼
+                 Monitor
+                    │
+                    ▼
+                 Grafana
