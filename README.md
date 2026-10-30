@@ -14,7 +14,7 @@
 
 <br>
 
-**Engineering reliable infrastructure. CONTINOUS LEARNING CONTIOUS UPGRADATION**
+**Engineering reliable infrastructure. CONTINUOUS LEARNING, CONTINUOUS IMPROVEMENT
 
 </div>
 
