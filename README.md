@@ -14,7 +14,7 @@
 
 <br>
 
-**Engineering reliable infrastructure. Automating everything repeatable.**
+**Engineering reliable infrastructure. CONTINOUS LEARNING CONTIOUS UPGRADATION**
 
 </div>
 
