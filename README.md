@@ -1,249 +1,116 @@
-<div align="center">
+ <div align="center">
 
 # ADITYA CHOURASIYA
 
-### DevOps · SRE · Cloud Infrastructure · CI/CD · Automation
+### PLATFORM ENGINEERING · SITE RELIABILITY ENGINEERING · CLOUD · AUTOMATION
 
 <p>
-  <a href="https://www.linkedin.com/in/aditya-chourasiya-4aa111249">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Rightplacecom">
-    <img src="https://img.shields.io/badge/GitHub-Rightplacecom-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:adityalearner6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/aditya-chourasiya-4aa111249"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Rightplacecom"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="mailto:adityalearner6@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Rightplacecom&label=Profile%20Views&color=0A66C2&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=Rightplacecom&label=PROFILE%20VIEWS&color=6366F1&style=flat-square">
+
+<br>
+
+**Engineering reliable infrastructure. Automating everything repeatable.**
 
 </div>
 
 ---
 
-## 👋 About
+## `01` — ENGINEERING PROFILE
 
-I'm a **BCA student focused on DevOps and Site Reliability Engineering**, with an interest in **cloud infrastructure, CI/CD automation, containerization, monitoring, and reliable production systems**.
+I'm a BCA student focused on **Platform Engineering, Site Reliability Engineering, and Cloud Infrastructure**.
 
-I enjoy taking an application from:
+My engineering interests revolve around building reliable infrastructure, automating deployment workflows, container orchestration, and improving system observability.
 
-**Code → Build → Test → Package → Deploy → Monitor → Recover → Improve**
+I approach infrastructure with one objective:
 
-My projects focus on automating engineering workflows, reducing deployment friction, and building infrastructure that is **reliable, observable, secure, and repeatable**.
+> Make systems reliable, deployments predictable, and engineering workflows repeatable.
+
+```yaml
+engineer:
+  name: Aditya Chourasiya
+  focus:
+    - Platform Engineering
+    - Site Reliability Engineering
+    - Cloud Infrastructure
+    - DevOps Automation
+
+  technologies:
+    cloud: AWS
+    containers: [Docker, Kubernetes]
+    iac: Terraform
+    cicd: [Jenkins, GitHub Actions]
+    monitoring: [Grafana]
+    operating_system: Linux
+    scripting: [Python, Bash]
+```
 
 ---
 
-## ✦ Selected DevOps / SRE Work
+## `02` — ENGINEERING DOMAINS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ CI/CD Infrastructure
+### ◈ Platform Engineering
 
-**DevOps · Jenkins · Automation**
+Building infrastructure and workflows that make software delivery easier.
 
-A CI/CD environment designed to automate application delivery from source control to deployment.
-
-**Engineering scope**
-
-- Jenkins controller + agent architecture
-- Automated build pipelines
-- GitHub integration
-- Multi-stage deployment workflow
-- Health-check based deployment
-- Secure credential management
-
-<a href="https://github.com/Rightplacecom">
-<b>View Projects →</b>
-</a>
+- Internal Developer Platforms
+- Infrastructure automation
+- Developer self-service concepts
+- Standardized deployment workflows
+- Container orchestration
+- Platform architecture
 
 </td>
-
 <td width="50%" valign="top">
 
-### ☁️ AWS Infrastructure
+### ◈ Site Reliability Engineering
 
-**Cloud · Linux · Infrastructure**
+Understanding and improving the reliability of distributed systems.
 
-Building and managing cloud infrastructure for application deployment and automation.
-
-**Engineering scope**
-
-- AWS EC2
-- Linux server administration
-- IAM
-- Security Groups
-- SSH-based infrastructure
-- Cloud deployment workflows
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🐳 Containerized Applications
-
-**Docker · CI/CD · Deployment**
-
-Containerizing applications to create consistent environments across development and deployment.
-
-**Engineering scope**
-
-- Docker image creation
-- Container lifecycle management
-- Docker Compose
-- Application packaging
-- CI/CD container builds
-- Deployment environments
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Monitoring & Reliability
-
-**SRE · Observability · Operations**
-
-Exploring reliability practices for detecting failures and understanding application and infrastructure health.
-
-**Engineering scope**
-
-- Grafana
-- Infrastructure monitoring
-- Health checks
-- Logs
-- Metrics
-- Service availability
+- Service health monitoring
+- Health-check automation
 - Failure detection
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔄 DevOps Thinking
-
-<div align="center">
-
-| PLAN | BUILD | DEPLOY | OPERATE |
-|:---:|:---:|:---:|:---:|
-| 🎯 | ⚙️ | 🚀 | 📊 |
-| Define workflow | Automate delivery | Release safely | Monitor systems |
-
-</div>
-
-### What I look for
-
-**Reliability**
-→ Can the system continue working when something fails?
-
-**Automation**
-→ Which repetitive manual operation can be automated?
-
-**Deployment**
-→ Can software be released consistently and safely?
-
-**Observability**
-→ Can we understand what is happening inside the system?
-
-**Security**
-→ Are credentials, permissions, and access properly controlled?
-
-**Recovery**
-→ What happens when deployment or infrastructure fails?
-
----
-
-## 🧰 DevOps / SRE Toolkit
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Cloud
-
-- AWS
-- EC2
-- IAM
-- VPC
-- Security Groups
-- EBS
-- Cloud Infrastructure
-
-</td>
-
-<td width="33%" valign="top">
-
-### CI/CD
-
-- Jenkins
-- GitHub
-- Jenkins Pipelines
-- Webhooks
-- Jenkins Agents
-- Automated Builds
-- Deployment Pipelines
-
-</td>
-
-<td width="33%" valign="top">
-
-### Containers
-
-- Docker
-- Docker Compose
-- Kubernetes
-- Container Images
-- Container Deployment
-- Application Packaging
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### Infrastructure
-
-- Terraform
-- Infrastructure as Code
-- Variables
-- Outputs
-- Modules
-- State Management
-- AWS Provisioning
-
-</td>
-
-<td valign="top">
-
-### Monitoring
-
-- Grafana
-- Metrics
-- Logs
-- Health Checks
-- System Monitoring
-- Service Monitoring
+- Incident response fundamentals
+- Availability and reliability
 - Observability
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<td valign="top">
+### ◈ Cloud Infrastructure
 
-### Systems
+Provisioning and managing cloud infrastructure.
 
-- Linux
-- Ubuntu
-- Networking
-- SSH
-- Bash
-- Python
-- Server Administration
+- AWS EC2
+- IAM and access management
+- VPC and networking
+- Security Groups
+- Linux server administration
+- Infrastructure as Code
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ DevOps & Automation
+
+Automating software delivery from source code to deployment.
+
+- Jenkins pipelines
+- CI/CD automation
+- Docker image builds
+- GitHub integration
+- Automated testing workflows
+- Deployment validation
 
 </td>
 </tr>
@@ -251,51 +118,229 @@ Exploring reliability practices for detecting failures and understanding applica
 
 ---
 
-## 🏗️ DevOps Architecture
+## `03` — SELECTED ENGINEERING PROJECTS
 
-```text
-                         DEVELOPER
-                             │
-                             ▼
-                         GitHub
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     Jenkins     │
-                    │   Controller    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │  Jenkins Agent  │
-                    └────────┬────────┘
-                             │
-                 ┌───────────┼───────────┐
-                 ▼           ▼           ▼
-              Build        Test       Security
-                 │           │           │
-                 └───────────┼───────────┘
-                             ▼
-                         Docker
-                             │
-                             ▼
-                           AWS
-                             │
-                             ▼
-                       Deployment
-                             │
-                             ▼
-                     Health Checks
-                             │
-                    ┌────────┴────────┐
-                    │                 │
-                  PASS              FAIL
-                    │                 │
-                    ▼                 ▼
-                Production          STOP
-                    │
-                    ▼
-                 Monitor
-                    │
-                    ▼
-                 Grafana
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01. Internal Developer Platform</h3>
+
+<sub>PLATFORM ENGINEERING · IDP · AUTOMATION</sub>
+
+A developer platform focused on simplifying infrastructure workflows and improving developer experience.
+
+**Core engineering**
+
+- Platform architecture
+- Developer self-service concepts
+- Standardized workflows
+- Infrastructure provisioning
+- Deployment automation
+
+<br>
+
+<a href="https://github.com/Rightplacecom/Developer-Platform-IDP-"><b>↗ EXPLORE PROJECT</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02. AWS Jenkins Infrastructure</h3>
+
+<sub>CI/CD · AWS · JENKINS · LINUX</sub>
+
+A cloud-based CI/CD environment using Jenkins controller-agent architecture.
+
+**Core engineering**
+
+- Jenkins controller and agent
+- AWS EC2 infrastructure
+- Pipeline automation
+- GitHub integration
+- Docker image builds
+- Health-check validation
+
+<br>
+
+<a href="https://github.com/Rightplacecom"><b>↗ EXPLORE REPOSITORIES</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>03. Terraform Infrastructure</h3>
+
+<sub>IaC · AWS · TERRAFORM</sub>
+
+Infrastructure provisioning and lifecycle management using Terraform.
+
+**Core engineering**
+
+- EC2 provisioning
+- Terraform variables
+- State management
+- Outputs and modules
+- Infrastructure lifecycle
+- Multi-region concepts
+
+<br>
+
+<a href="https://github.com/Rightplacecom"><b>↗ EXPLORE REPOSITORIES</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04. Container Engineering</h3>
+
+<sub>DOCKER · KUBERNETES · DEPLOYMENT</sub>
+
+Working with containerized applications and deployment environments.
+
+**Core engineering**
+
+- Docker image creation
+- Container lifecycle
+- Docker Compose
+- Kubernetes fundamentals
+- Application packaging
+- Container deployment
+
+<br>
+
+<a href="https://github.com/Rightplacecom"><b>↗ EXPLORE REPOSITORIES</b></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — TECHNOLOGY ECOSYSTEM
+
+<div align="center">
+
+### CLOUD & INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,linux,bash">
+
+### CONTAINERS & ORCHESTRATION
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes">
+
+### CI/CD & VERSION CONTROL
+
+<img src="https://skillicons.dev/icons?i=jenkins,github,git">
+
+### MONITORING & PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=grafana,python">
+
+</div>
+
+---
+
+## `05` — INFRASTRUCTURE LIFECYCLE
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    A["Developer"] --> B["GitHub Repository"]
+    B --> C["Jenkins CI/CD"]
+    C --> D["Build & Test"]
+    D --> E["Security Validation"]
+    E --> F["Docker Image"]
+    F --> G["AWS Infrastructure"]
+    G --> H["Application Deployment"]
+    H --> I["Health Checks"]
+    I --> J["Monitoring & Observability"]
+    J --> K["Feedback & Improvement"]
+
+    style A fill:#161b22,stroke:#6366f1,color:#fff
+    style C fill:#161b22,stroke:#6366f1,color:#fff
+    style G fill:#161b22,stroke:#6366f1,color:#fff
+    style J fill:#161b22,stroke:#22c55e,color:#fff
+```
+
+</div>
+
+---
+
+## `06` — SRE ENGINEERING PRINCIPLES
+
+| Principle | Engineering Approach |
+|:---|:---|
+| Reliability | Design systems to handle failures |
+| Availability | Monitor service health and uptime |
+| Observability | Understand systems through metrics and logs |
+| Automation | Eliminate repetitive manual operations |
+| Scalability | Design infrastructure for changing workloads |
+| Security | Apply least privilege and secure credentials |
+| Recovery | Detect, troubleshoot and recover from failures |
+
+### Reliability mindset
+
+```bash
+$ sre --principles
+
+[01] Measure before optimizing
+[02] Automate repetitive operations
+[03] Monitor critical infrastructure
+[04] Detect failures early
+[05] Reduce deployment risk
+[06] Learn from incidents
+```
+
+---
+
+## `07` — CURRENT ENGINEERING FOCUS
+
+- [x] Linux & System Administration
+- [x] Docker & Containerization
+- [x] Kubernetes Fundamentals
+- [x] Jenkins & CI/CD
+- [x] Terraform & Infrastructure as Code
+- [x] AWS Infrastructure
+- [x] Networking Fundamentals
+- [ ] Advanced Kubernetes Operations
+- [ ] Production Observability
+- [ ] SRE Practices & SLO Implementation
+- [ ] Advanced Platform Engineering
+
+---
+
+## `08` — GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rightplacecom&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rightplacecom&layout=compact&theme=github_dark&hide_border=true">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Rightplacecom&theme=github-dark-blue&hide_border=true">
+
+</div>
+
+---
+
+## `09` — CONNECT
+
+<div align="center">
+
+### BUILD. AUTOMATE. OBSERVE. IMPROVE.
+
+Interested in working on infrastructure, distributed systems, cloud platforms, and reliable engineering solutions.
+
+<a href="https://github.com/Rightplacecom">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-chourasiya-4aa111249">
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<br><br>
+
+<sub>Designed & Engineered by Aditya Chourasiya · 2026</sub>
+
+</div>
